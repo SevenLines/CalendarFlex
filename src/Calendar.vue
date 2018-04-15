@@ -16,7 +16,7 @@
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
   .title {
     margin: 0.25em;
     font-weight: bold;
