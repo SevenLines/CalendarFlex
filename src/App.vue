@@ -61,6 +61,7 @@ export default {
   .content { // непосредственный контейнер с заголовком и содержимым
     display: flex;
     flex-direction: column;
+    flex: 1;
   }
 
   .body { // основное тело контейнер

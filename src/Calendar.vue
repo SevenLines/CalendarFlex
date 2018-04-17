@@ -33,19 +33,17 @@
   .day {
     margin: 0.25em;
     flex-grow: 1;
-    flex-basis: 0;
+    flex-basis: 2em;
   }
 
   .year {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
   }
 
   .month {
     margin: 0.25em;
-    flex-basis: 0;
-    flex-grow: 1;
   }
 </style>
 
