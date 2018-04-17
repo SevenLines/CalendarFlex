@@ -33,7 +33,7 @@
   .day {
     margin: 0.25em;
     flex-grow: 1;
-    flex-basis: 0;
+    flex-basis: 2em;
   }
 
   .year {
@@ -44,7 +44,6 @@
 
   .month {
     margin: 0.25em;
-    flex-basis: 0;
     flex-grow: 1;
   }
 </style>
